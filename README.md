@@ -1,7 +1,7 @@
-## Curiosity : Bot - MD ✨️
+## Satan : Bot - MD ✨️
 
 <p align="center">
-<img src="https://telegra.ph/file/04b7a17f4f7aaa302b2d8.jpg" alt="CuriosityBot-MD" width="900"/>
+<img src="https://telegra.ph/file/1808c2d26c578d5255909.jpg" alt="Satanbot" width="900"/>
 </p>
 
 <a href="https://github.com/azamijs/CuriosityBot-MD"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=ff4500&style=flat-square" /></a>
@@ -60,7 +60,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/AzamiJs/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
+git clone https://github.com/Carlos2024r/Satanbot && cd Satanbot && yarn install && npm install
 ```
 
 ```bash
