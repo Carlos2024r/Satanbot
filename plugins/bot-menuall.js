@@ -22,7 +22,7 @@ let tags = {
 'imagenes': 'Imagenes 🖼️',
 }
 const defaultMenu = {
-before: `> ╭─❒ 「 *Usuario* 🎗️ 」
+before: `> ╭─❒ 「 *Usuario* 🚸 」
 > │○ *Cliente:* %name
 > │○ *Limite:* %diamond
 > │○ *Nivel:* %level
@@ -30,7 +30,7 @@ before: `> ╭─❒ 「 *Usuario* 🎗️ 」
 > │○ *Exp:* %exp
 > │
 > ├─❒ 「 *InfoBot* 🚩 」
-> │○ *Creador:* Azami / Zam
+> │○ *Creador:* https://Wa.me/+12092512883
 > │○ *Tiempo Activo:* %muptime
 > │○ *Registrados:* %rtotalreg De %totalreg Usuarios
 > │
